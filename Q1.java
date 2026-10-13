@@ -1,7 +1,7 @@
 public class Q1{
     public static void main(String[] args) {
 
-                String name = "Anshika Tyagi";
+                String name = "Abhishek Tyagi";
                 int age = 21;
                 String college = "COER University";
 
